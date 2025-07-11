@@ -1,1 +1,167 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_Elq1gF5OEfCjUpDgh26nNw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - CreditCard",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - CurrencyRate",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - Customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - PersonCreditCard",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderDetail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderHeader",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderHeaderSalesReason",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesPerson",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesPersonQuotaHistory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesReason",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesTaxRate",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesTerritory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesTerritoryHistory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - ShoppingCartItem",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SpecialOffer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SpecialOfferProduct",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - Store",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_UtfCEF5YEfCjUpDgh26nNw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "__1FGQF5LEfCjUpDgh26nNw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - CountryRegionCurrency",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - CreditCard",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - Currency",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - CurrencyRate",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - Customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - PersonCreditCard",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderDetail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderHeader",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderHeaderSalesReason",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesPerson",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesPersonQuotaHistory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesReason",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesTaxRate",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesTerritory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesTerritoryHistory",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - ShoppingCartItem",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SpecialOffer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SpecialOfferProduct",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - Store",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
