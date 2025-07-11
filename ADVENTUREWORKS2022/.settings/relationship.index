@@ -164,4 +164,27 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_v48lcF5mEfCQJ-fZ9jd9UQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zZnN0F58EfCQJ-fZ9jd9UQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderDetail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderHeader",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
