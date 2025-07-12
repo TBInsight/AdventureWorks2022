@@ -5,9 +5,17 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_CQDlAF56EfCQJ-fZ9jd9UQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_Reaw8F5LEfCjUpDgh26nNw",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_CQDlAF56EfCQJ-fZ9jd9UQ - Product",
+    "version" : "Latest",
+    "type" : "schema"
   }, {
     "id" : "_Reaw8F5LEfCjUpDgh26nNw - CreditCard",
     "version" : "Latest",
@@ -197,6 +205,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_5i07oF8oEfCtc9Ow6tdsOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_CQDlAF56EfCQJ-fZ9jd9UQ",
     "version" : "Latest",
     "type" : "property"
