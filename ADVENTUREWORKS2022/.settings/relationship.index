@@ -166,11 +166,30 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_nqZIcF6OEfCQJ-fZ9jd9UQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "__1FGQF5LEfCjUpDgh26nNw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zZnN0F58EfCQJ-fZ9jd9UQ",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_v48lcF5mEfCQJ-fZ9jd9UQ",
     "version" : "0.1",
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_CQDlAF56EfCQJ-fZ9jd9UQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_Reaw8F5LEfCjUpDgh26nNw",
     "version" : "Latest",
     "type" : "property"
@@ -178,6 +197,18 @@
     "id" : "_zZnN0F58EfCQJ-fZ9jd9UQ",
     "version" : "Latest",
     "type" : "property"
+  }, {
+    "id" : "_CQDlAF56EfCQJ-fZ9jd9UQ - Product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - CreditCard",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Reaw8F5LEfCjUpDgh26nNw - Customer",
+    "version" : "Latest",
+    "type" : "schema"
   }, {
     "id" : "_Reaw8F5LEfCjUpDgh26nNw - SalesOrderDetail",
     "version" : "Latest",
