@@ -112,6 +112,10 @@
     "version" : "Latest",
     "type" : "schema"
   }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - person",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
     "id" : "_kFnqsF5NEfCjUpDgh26nNw - product",
     "version" : "Latest",
     "type" : "schema"
@@ -121,6 +125,10 @@
     "type" : "schema"
   }, {
     "id" : "_kFnqsF5NEfCjUpDgh26nNw - salesorderheader",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - store",
     "version" : "Latest",
     "type" : "schema"
   } ]
