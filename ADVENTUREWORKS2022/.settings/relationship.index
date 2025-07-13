@@ -87,6 +87,45 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_PYqcsF-8EfCJFqRXR3XpdA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5i07oF8oEfCtc9Ow6tdsOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zZnN0F58EfCQJ-fZ9jd9UQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - creditcard",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - salesorderdetail",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kFnqsF5NEfCjUpDgh26nNw - salesorderheader",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_UtfCEF5YEfCjUpDgh26nNw",
     "version" : "0.1",
     "type" : "job"
